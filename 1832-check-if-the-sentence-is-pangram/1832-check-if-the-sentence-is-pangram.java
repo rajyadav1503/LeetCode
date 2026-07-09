@@ -3,8 +3,10 @@ class Solution {
         
         boolean[] arr = new boolean[26];
 
-        for(char c : sentence.toCharArray()){
-            arr[c - 'a'] = true;
+        int n = sentence.length();
+
+        for(int i=0;i<n;i++){
+            arr[sentence.charAt(i)-'a'] = true;
         }
 
         for(boolean b : arr){
