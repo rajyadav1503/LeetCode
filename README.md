@@ -14,6 +14,7 @@
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rajyadav1503/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/rajyadav1503/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajyadav1503/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajyadav1503/LeetCode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
