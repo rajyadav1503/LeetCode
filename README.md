@@ -66,12 +66,14 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajyadav1503/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/rajyadav1503/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
