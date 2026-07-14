@@ -78,6 +78,7 @@
 | [1108-defanging-an-ip-address](https://github.com/rajyadav1503/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/rajyadav1503/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rajyadav1503/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
@@ -87,4 +88,5 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rajyadav1503/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
