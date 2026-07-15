@@ -65,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajyadav1503/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
