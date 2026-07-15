@@ -71,6 +71,7 @@
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1678-goal-parser-interpretation](https://github.com/rajyadav1503/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajyadav1503/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 ## Greedy
 |  |
 | ------- |
