@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/rajyadav1503/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/rajyadav1503/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rajyadav1503/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
