@@ -56,6 +56,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rajyadav1503/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rajyadav1503/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rajyadav1503/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -74,6 +75,7 @@
 | [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/rajyadav1503/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/rajyadav1503/LeetCode/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -87,6 +89,7 @@
 | [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/rajyadav1503/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/rajyadav1503/LeetCode/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/rajyadav1503/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/rajyadav1503/LeetCode/tree/master/0647-palindromic-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rajyadav1503/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
