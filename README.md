@@ -14,6 +14,7 @@
 | [0766-toeplitz-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rajyadav1503/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
@@ -34,6 +35,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/rajyadav1503/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajyadav1503/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajyadav1503/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
