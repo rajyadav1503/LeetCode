@@ -60,6 +60,7 @@
 | [0389-find-the-difference](https://github.com/rajyadav1503/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rajyadav1503/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1859-sorting-the-sentence](https://github.com/rajyadav1503/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@
 | [1768-merge-strings-alternately](https://github.com/rajyadav1503/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajyadav1503/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/rajyadav1503/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2315-count-asterisks](https://github.com/rajyadav1503/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 ## Greedy
