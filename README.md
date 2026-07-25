@@ -13,6 +13,7 @@
 | [0498-diagonal-traverse](https://github.com/rajyadav1503/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/rajyadav1503/LeetCode/tree/master/0500-keyboard-row) |
 | [0766-toeplitz-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/rajyadav1503/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/rajyadav1503/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -37,6 +38,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/rajyadav1503/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/rajyadav1503/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajyadav1503/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/rajyadav1503/LeetCode/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/rajyadav1503/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/rajyadav1503/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
