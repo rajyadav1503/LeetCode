@@ -29,6 +29,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/rajyadav1503/LeetCode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/rajyadav1503/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/rajyadav1503/LeetCode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rajyadav1503/LeetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -55,6 +56,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/rajyadav1503/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rajyadav1503/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/rajyadav1503/LeetCode/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/rajyadav1503/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rajyadav1503/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -85,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajyadav1503/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
