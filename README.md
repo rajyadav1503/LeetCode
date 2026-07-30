@@ -23,6 +23,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rajyadav1503/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/rajyadav1503/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rajyadav1503/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajyadav1503/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
@@ -33,6 +34,7 @@
 | [0202-happy-number](https://github.com/rajyadav1503/LeetCode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rajyadav1503/LeetCode/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rajyadav1503/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Matrix
 |  |
 | ------- |
