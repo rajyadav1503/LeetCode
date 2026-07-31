@@ -98,6 +98,7 @@
 | [0500-keyboard-row](https://github.com/rajyadav1503/LeetCode/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/rajyadav1503/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 ## String
 |  |
@@ -124,6 +125,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajyadav1503/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rajyadav1503/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/rajyadav1503/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2315-count-asterisks](https://github.com/rajyadav1503/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 ## Greedy
