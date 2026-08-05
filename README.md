@@ -57,6 +57,7 @@
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/rajyadav1503/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/rajyadav1503/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/rajyadav1503/LeetCode/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/rajyadav1503/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rajyadav1503/LeetCode/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/rajyadav1503/LeetCode/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajyadav1503/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Dynamic Programming
 |  |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajyadav1503/LeetCode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rajyadav1503/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
