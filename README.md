@@ -37,6 +37,7 @@
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rajyadav1503/LeetCode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajyadav1503/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajyadav1503/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/rajyadav1503/LeetCode/tree/master/1603-design-parking-system) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajyadav1503/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
