@@ -33,6 +33,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/rajyadav1503/LeetCode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/rajyadav1503/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/rajyadav1503/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/rajyadav1503/LeetCode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/rajyadav1503/LeetCode/tree/master/0509-fibonacci-number) |
@@ -117,6 +118,7 @@
 | [0058-length-of-last-word](https://github.com/rajyadav1503/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rajyadav1503/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rajyadav1503/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/rajyadav1503/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/rajyadav1503/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
