@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rajyadav1503/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rajyadav1503/LeetCode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/rajyadav1503/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rajyadav1503/LeetCode/tree/master/0171-excel-sheet-column-number) |
