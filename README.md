@@ -156,6 +156,7 @@
 | [1859-sorting-the-sentence](https://github.com/rajyadav1503/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/rajyadav1503/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rajyadav1503/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2129-capitalize-the-title](https://github.com/rajyadav1503/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2315-count-asterisks](https://github.com/rajyadav1503/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 ## Greedy
