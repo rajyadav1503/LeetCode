@@ -142,6 +142,7 @@
 | [0657-robot-return-to-origin](https://github.com/rajyadav1503/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rajyadav1503/LeetCode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/rajyadav1503/LeetCode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/rajyadav1503/LeetCode/tree/master/0824-goat-latin) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/rajyadav1503/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajyadav1503/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rajyadav1503/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
