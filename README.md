@@ -146,6 +146,7 @@
 | [0796-rotate-string](https://github.com/rajyadav1503/LeetCode/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/rajyadav1503/LeetCode/tree/master/0824-goat-latin) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [1021-remove-outermost-parentheses](https://github.com/rajyadav1503/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rajyadav1503/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rajyadav1503/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rajyadav1503/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -209,4 +210,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/rajyadav1503/LeetCode/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rajyadav1503/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rajyadav1503/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
