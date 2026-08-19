@@ -138,6 +138,7 @@
 | [0389-find-the-difference](https://github.com/rajyadav1503/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/rajyadav1503/LeetCode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/rajyadav1503/LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/rajyadav1503/LeetCode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/rajyadav1503/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/rajyadav1503/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
