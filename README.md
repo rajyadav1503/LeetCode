@@ -44,6 +44,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajyadav1503/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rajyadav1503/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajyadav1503/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2864-maximum-odd-binary-number](https://github.com/rajyadav1503/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajyadav1503/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
@@ -161,6 +162,7 @@
 | [2129-capitalize-the-title](https://github.com/rajyadav1503/LeetCode/tree/master/2129-capitalize-the-title) |
 | [2315-count-asterisks](https://github.com/rajyadav1503/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
+| [2864-maximum-odd-binary-number](https://github.com/rajyadav1503/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/rajyadav1503/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/rajyadav1503/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/rajyadav1503/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2864-maximum-odd-binary-number](https://github.com/rajyadav1503/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Counting
 |  |
 | ------- |
