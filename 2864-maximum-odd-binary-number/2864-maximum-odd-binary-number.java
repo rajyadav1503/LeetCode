@@ -22,12 +22,8 @@ class Solution {
                 sb.append('0');
             }
             sb.append('1');
-        }else{
-            for(int i=0;i<n;i++){
-                sb.append(s.charAt(i));
-            }
         }
 
-        return new String(sb);
+        return sb.toString();
     }
 }
