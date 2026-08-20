@@ -14,7 +14,8 @@ class Solution {
                 sb.append('0');
             }
             sb.append('1');
-        }else if(count > 1){
+        }
+        if(count > 1){
             for(int i=0;i<count-1;i++){
                 sb.append('1');
             }
