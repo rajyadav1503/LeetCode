@@ -80,6 +80,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rajyadav1503/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rajyadav1503/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/rajyadav1503/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rajyadav1503/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/rajyadav1503/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rajyadav1503/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rajyadav1503/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/rajyadav1503/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajyadav1503/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajyadav1503/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
