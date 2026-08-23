@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajyadav1503/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rajyadav1503/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/rajyadav1503/LeetCode/tree/master/0075-sort-colors) |
@@ -103,6 +104,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajyadav1503/LeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/rajyadav1503/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
