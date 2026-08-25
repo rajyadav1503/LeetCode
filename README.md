@@ -32,6 +32,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajyadav1503/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajyadav1503/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rajyadav1503/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajyadav1503/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -130,6 +131,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rajyadav1503/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2325-decode-the-message](https://github.com/rajyadav1503/LeetCode/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajyadav1503/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rajyadav1503/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajyadav1503/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
