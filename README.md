@@ -17,6 +17,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/rajyadav1503/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/rajyadav1503/LeetCode/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/rajyadav1503/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0766-toeplitz-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/rajyadav1503/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -109,6 +110,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajyadav1503/LeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/rajyadav1503/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
