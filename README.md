@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajyadav1503/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rajyadav1503/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -105,6 +106,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajyadav1503/LeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/rajyadav1503/LeetCode/tree/master/0611-valid-triangle-number) |
