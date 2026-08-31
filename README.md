@@ -21,6 +21,7 @@
 | [0611-valid-triangle-number](https://github.com/rajyadav1503/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0766-toeplitz-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/rajyadav1503/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajyadav1503/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/rajyadav1503/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/rajyadav1503/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/rajyadav1503/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -113,6 +114,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajyadav1503/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/rajyadav1503/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajyadav1503/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/rajyadav1503/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajyadav1503/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
