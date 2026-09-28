@@ -36,6 +36,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajyadav1503/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajyadav1503/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/rajyadav1503/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajyadav1503/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajyadav1503/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajyadav1503/LeetCode/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajyadav1503/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajyadav1503/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajyadav1503/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/rajyadav1503/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
 |  |
 | ------- |
