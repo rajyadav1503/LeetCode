@@ -12,6 +12,7 @@
 | [0059-spiral-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/rajyadav1503/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0164-maximum-gap](https://github.com/rajyadav1503/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rajyadav1503/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rajyadav1503/LeetCode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajyadav1503/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajyadav1503/LeetCode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/rajyadav1503/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rajyadav1503/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rajyadav1503/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rajyadav1503/LeetCode/tree/master/0242-valid-anagram) |
@@ -268,4 +270,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajyadav1503/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rajyadav1503/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rajyadav1503/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rajyadav1503/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
